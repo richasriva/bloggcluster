@@ -1,0 +1,52 @@
+.post-img{
+    height: 400px;
+    overflow: hidden;
+    margin-top: 16px;
+    margin-left:100px;
+    justify-content: center;
+    align-items:center;
+}
+.post-img img{
+    width: 90%;
+    height: 85%;
+    border-radius:5px;
+    
+}
+.subcontent{
+    margin-top: 7px;
+    margin:10px;
+    padding:7px;
+    font-size:large;
+}
+.subcontent p{
+    padding:10px;
+}
+.blog-content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.blog-content h1{
+    margin-top: 5px;
+    margin-bottom: 7px;
+    padding: 5px;
+}
+.bloggmeta{
+    background-color: rgb(214, 206, 221);
+    display: flex;
+    justify-content: space-between;
+}
+.authorinfo{
+    margin: 12px 0;
+}
+.authorinfo div{
+    padding: 4px 8px;
+    font-family: var(--font2)
+}
+.social{
+    padding-right: 53px;
+    align-items: center;
+    cursor: pointer;
+}
+
